@@ -1,9 +1,9 @@
 <?php
 
 $hostname = "localhost";
-$db_name = "db_a12345";
-$db_user = "a12345";
-$db_passwd = "PASS";
+$db_name = "db_a71373";
+$db_user = "a71373";
+$db_passwd = "2389ee";
 
 // Turn off all error reporting
 error_reporting(0);   
